@@ -1,1 +1,1 @@
-# fuzzy-logic-examples
+# Fuzzy logic examples
